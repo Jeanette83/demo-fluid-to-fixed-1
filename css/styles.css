@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+body {
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
 
 .container {
     max-width: 960px;
