@@ -16,6 +16,10 @@ body {
     background-color: bisque;
 }
 
+.flex-container {
+    display:flex;
+}
+
 header,
 footer {
     background-color: rgb(237, 14, 237);
