@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    max-width: 960px;
+    max-width: 60rem;
     margin: 0 auto;
     background-color: bisque;
 }
@@ -19,31 +19,31 @@ body {
 header,
 footer {
     background-color: rgb(237, 14, 237);
-    margin-bottom: 24px;
+    margin-bottom: 1.5rem;
 }
 
 h1 {
- padding: 48px;   
+ padding: 3rem;   
 }
 
 nav {
     background-color: rgb(240, 169, 240);
-    padding: 16px;
+    padding: 1rem;
 }
 
 .banner {
     background-color: rgb(235, 235, 247);
-    margin-bottom: 24px;
-    padding: 288px 6px;
+    margin-bottom: 1.5rem;
+    padding: 18rem 0.375rem;
 }
 
 .promo {
     background-color: rgb(151, 249, 151);
-    padding: 128px 16px;
-    margin-bottom: 24px;
+    padding: 8rem 1rem;
+    margin-bottom: 1.5rem;
 }
 
 footer {
     background-color: rgb(11, 11, 240);
-    padding: 49px;
+    padding: 3rem;
 }
