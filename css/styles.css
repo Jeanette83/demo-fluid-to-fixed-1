@@ -34,14 +34,16 @@ nav {
 .banner {
     background-color: rgb(235, 235, 247);
     margin-bottom: 24px;
+    padding: 288px 6px;
 }
 
 .promo {
     background-color: rgb(151, 249, 151);
-    padding: 128px;
+    padding: 128px 16px;
     margin-bottom: 24px;
 }
 
 footer {
     background-color: rgb(11, 11, 240);
+    padding: 49px;
 }
