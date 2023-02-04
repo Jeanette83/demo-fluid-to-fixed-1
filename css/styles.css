@@ -40,8 +40,10 @@ nav {
     background-color: rgb(235, 235, 247);
     margin-bottom: 1.5rem;
     padding: 18rem 0.375rem;
-   
+}
 
+.image {
+    width:60rem;
 }
 
 .promo {
