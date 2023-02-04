@@ -40,11 +40,12 @@ nav {
     background-color: rgb(235, 235, 247);
     margin-bottom: 1.5rem;
     padding: 18rem 0.375rem;
-    max-width: 60rem;
+   
 
 }
 .flex {
     display: flex;
+    max-width: 60rem;
 }
 .promo {
     background-color: rgb(151, 249, 151);
