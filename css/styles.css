@@ -55,7 +55,7 @@ footer {
     padding: 3rem;
 }
 
-@media screen and (min-width) {
+@media screen and (min-width: 815px) {
     .flex-container {
         display: flex;
         gap:2%
