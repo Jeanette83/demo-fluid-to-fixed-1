@@ -57,3 +57,22 @@ footer {
     background-color: rgb(11, 11, 240);
     padding: 3rem;
 }
+
+@media screen and (min-width) {
+    .flex-container {
+        display: flex;
+        gap:2%
+    }
+
+    .promo {
+        width: calc(96%/3);
+    }
+
+
+
+
+
+
+}
+    
+}
