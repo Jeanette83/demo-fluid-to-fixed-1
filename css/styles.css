@@ -16,10 +16,7 @@ body {
     background-color: bisque;
 }
 
-.flex-container {
-    display:flex;
-    gap:2%;
-}
+
 
 header,
 footer {
@@ -50,7 +47,7 @@ nav {
     background-color: rgb(151, 249, 151);
     padding: 8rem 1rem;
     margin-bottom: 1.5rem;
-    width: calc(96%/3);
+
 }
 
 footer {
@@ -68,11 +65,5 @@ footer {
         width: calc(96%/3);
     }
 
-
-
-
-
-
 }
     
-}
